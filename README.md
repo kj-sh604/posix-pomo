@@ -29,7 +29,7 @@
 1. ensure you have all dependencies installed
 2. download the `posix-pomo` script from this repository or clone the whole repo.
 3. make the script executable:
-   ```bash
+   ```
    chmod +x posix-pomo
    ```
 
@@ -37,21 +37,21 @@
 
 to start a timer, use the following syntax:
 
-```bash
-./posix-pomo <mode(work/break)> <duration(h/m/s)>
+```
+./posix-pomo <mode> <duration>
 ```
 
-- `<mode(work/break)>`: either `work` for work sessions or `break` for break intervals.
-- `<duration(h/m/s)>`: the length of the timer, followed by `h` for hours, `m` for minutes, or `s` for seconds (e.g., `25m` for 25 minutes).
+- `<mode>`: either `work` for work sessions or `break` for break intervals.
+- `<duration>`: the length of the timer, followed by `h` for hours, `m` for minutes, or `s` for seconds (e.g., `25m` for 25 minutes).
 
 ### examples
 
 - start a 25-minute work session:
-  ```bash
+  ```
   ./posix-pomo work 25m
   ```
 - start a 5-minute break:
-  ```bash
+  ```
   ./posix-pomo break 5m
   ```
 
