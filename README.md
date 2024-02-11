@@ -7,6 +7,7 @@
 
 ![posix-pomo notifications image 0](https://aedrielkylejavier.me/assets/posix-pomo-notif0.png)
 ![posix-pomo notifications image 1](https://aedrielkylejavier.me/assets/posix-pomo-notif1.png)
+
 *example notifications using the `dunst` notification daemon on Arch Linux (btw)*
 
 ## features
