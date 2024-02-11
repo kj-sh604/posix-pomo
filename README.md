@@ -5,9 +5,9 @@
 ![posix-pomo demo in a GIF](https://aedrielkylejavier.me/assets/posix-pomo.gif)
 *made with [VHS](https://github.com/charmbracelet/vhs)*
 
-![posix-pomo notifications image 0](https://aedrielkylejavier.me/assets/posix-pomo-notifications0.png)
-![posix-pomo notifications image 1](https://aedrielkylejavier.me/assets/posix-pomo-notifications1.png)
-*example notifications with the `dunst` daemon on Arch Linux (btw)*
+![posix-pomo notifications image 0](https://aedrielkylejavier.me/assets/posix-pomo-notif0.png)
+![posix-pomo notifications image 1](https://aedrielkylejavier.me/assets/posix-pomo-notif1.png)
+*example notifications using the `dunst` notification daemon on Arch Linux (btw)*
 
 ## features
 
