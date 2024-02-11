@@ -2,6 +2,13 @@
 
 `posix-pomo` is a simple POSIX-compliant shell script that implements a pomodoro timer for Linux and the BSDs.
 
+![posix-pomo demo in a GIF](https://aedrielkylejavier.me/assets/posix-pomo.gif)
+*made with [VHS](https://github.com/charmbracelet/vhs)*
+
+![posix-pomo notifications image 0](https://aedrielkylejavier.me/assets/posix-pomo-notifications0.png)
+![posix-pomo notifications image 1](https://aedrielkylejavier.me/assets/posix-pomo-notifications1.png)
+*example notifications with the `dunst` daemon on Arch Linux (btw)*
+
 ## features
 
 - **customizable durations**: supports specifying the duration of work and break intervals in hours, minutes, or seconds.
@@ -53,4 +60,4 @@ I honestly don't expect contributions — given how simple this is, but of cours
 
 ## license
 
-distributed under the "unlicense" license. see `license` for more information.
+distributed under the "unlicense" license. see `LICENSE` for more information.
