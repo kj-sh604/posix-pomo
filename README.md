@@ -3,7 +3,7 @@
 `posix-pomo` is a simple POSIX-compliant shell script that implements a pomodoro timer for Linux and the BSDs.
 
 ![posix-pomo demo in a GIF](https://aedrielkylejavier.me/assets/posix-pomo.gif)
-*made with [VHS](https://github.com/charmbracelet/vhs)*
+*GIF made with [VHS](https://github.com/charmbracelet/vhs)*
 
 ![posix-pomo notifications image 0](https://aedrielkylejavier.me/assets/posix-pomo-notif0.png)
 ![posix-pomo notifications image 1](https://aedrielkylejavier.me/assets/posix-pomo-notif1.png)
